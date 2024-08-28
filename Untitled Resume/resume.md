@@ -23,21 +23,21 @@ A motivated individual with 6 years of experience in the oil and gas industry, t
 **Alignment Health Plan.** – Orange, CA- Remote
 *Oct 2023 – Present*
 
-1. Led a team of 15 in the successful delivery of multiple high-profile projects, achieving a 95% on-time delivery rate.
-1. Implemented Agile methodologies across the organization, resulting in a 30% increase in team productivity and a 20% reduction in project delivery times.
-1. Managed project budgets totaling over $10 million, ensuring projects were delivered within budget and with optimal resource utilization.
-1. Conducted regular risk assessments and developed mitigation plans, reducing project risks by 40%.
-1. Fostered strong relationships with stakeholders, enhancing communication and ensuring alignment with project goals and objectives.
+1. Manage inbound and outbound calls, specializing in HMO, PPO, and POS plans for Medicare Advantage.
+1. Facilitate seamless communication between primary care providers, specialists, and diagnostic facilities to coordinate member care effectively.
+1. Utilize CRM system to generate tickets and manage calls, chats, and emails, ensuring accurate documentation and resolution of member inquiries.
+1. Assist members in navigating the online portal, troubleshooting technical issues to ensure smooth access and usability.
 
 ### Tech Project Management Intern
 **LES.** – Multi-country Manufacturing Firm- Georgia- Remote 
 *Feb 2023- May 2023*
-1. Shadowed a Project Manager in the implementation of ZOHO CRM across international locations, streamlining sales, program management, warehouse operations, and customer relationship management processes.
-2. Observed and supported the development and rollout of new marketing materials for sales teams, improving engagement with prospects and driving better sales performance.
 
-### Assistant Project Manager
-**NextGen Technologies** – Boston, MA
-*July 2009 – May 2012*
+1. Shadowed a Project Manager in the implementation of ZOHO CRM across international locations, streamlining sales, program management, warehouse operations, and customer relationship management processes.
+1. Observed and supported the development and rollout of new marketing materials for sales teams, improving engagement with prospects and driving better sales performance.
+
+### Safety Tech Project Coordinator 
+**HMT Tank** – Texas City, TX 
+*Sep 2015 - Apr 2019*
 
 1. Assisted in managing software development projects, ensuring they were completed on time and within budget.
 1. Coordinated project activities and resources, maintaining detailed project documentation and status reports.
@@ -45,35 +45,40 @@ A motivated individual with 6 years of experience in the oil and gas industry, t
 1. Assisted in risk management activities, identifying potential issues and developing mitigation strategies.
 1. Contributed to process improvement initiatives, enhancing project workflows and increasing team productivity.
 
+### Turn Around Project Manager 
+**Code Red Safety** – Deer Park, TX
+*Feb 2014 - Aug 2015*
+
+	Safety Tech (Previous Role)
+    Jun 2012 - Jan 2014
+1. Led capital project turnarounds for annual reactor maintenance, unit outages, and emergency shutdowns.
+1. Oversaw safety and supply operations while managing a 15-person safety team, including safety technicians, providing services to over 500 employees and 15 contracting companies.
+1. Ensured strict adherence to OSHA standards and safety compliance across all operations.
+1. Facilitated ramp-up activities, project kick-offs, planning, and quality assurance for startup operations, successfully achieving early completion with zero recordable incidents.
+1. Assisted in maintaining refinery adherence to the planned budget throughout the project lifecycle.
+
+
 ## Education
 
-**Master of Business Administration (MBA)**
-Harvard Business School – Boston, MA
-*Graduated: May 2009*
-
-**Bachelor of Science in Computer Science**
-University of Illinois at Urbana-Champaign – Urbana, IL
-*Graduated: May 2007*
+**Associate of Arts and Sciences - AAS, Graphic Design / Web Design(AAS)**\
+College of the Mainland – Texas City, TX\
+Deans List and Presidents 3.8 GPA
+*Graduated: May 2023*
 
 ## Certifications
 
-1. Project Management Professional (PMP)
-1. Certified ScrumMaster (CSM)
-1. PRINCE2 Practitioner
-1. Lean Six Sigma Green Belt
+1. Full Stack Web Development Boot Camp - JTC Columbia University
+Python, Django, HTML, CSS, SQL 
+1. Introduction to Agile Development and Scrum - IBM
 
 ## Projects
 
-### ERP Implementation
-1. Led the successful implementation of an ERP system across multiple departments, improving operational efficiency by 35%.
+### CRM Implementation
+1. Shadowed a Project Manager in the implementation of ZOHO CRM across international locations, streamlining sales, program management, warehouse operations, and customer relationship management processes.
 
-### Website Redesign
+### TOO LEET
 1. Managed a complete website redesign project, enhancing user experience and increasing web traffic by 50%.
 
-### Data Center Migration
+### FLanuer
 1. Oversaw the migration of data center operations to a new facility, ensuring minimal downtime and improved system reliability.
 
-## Languages
-
-1. **English:** Native
-1. **Spanish:** Intermediate
