@@ -8,13 +8,11 @@
 A motivated individual with 6 years of experience in the oil and gas industry, transitioning into tech with a growing foundation in software engineering through a recent Bootcamp. I am eager to bring my expertise in problem-solving, project management, and leadership—honed while driving complex projects in my previous career—together with my new technical skills. With a passion for continuous learning and growth, I am excited to contribute to innovative projects through the Microsoft Leap program and continue expanding my knowledge in the tech field.
 
 ## Skills
-
 - **Project Management Skills:** Agile, Scrum, Waterfall, Kanban
 - **Technical Skills:** SEO, UI/UX, API, Database, version control
 - **Soft Skills:** Time Management, Adaptability, Conflict Resolution, Problem Solving, Communication, Collaboration
 
 ## Tools
-
 - **Tools:** GitHub, Figma, Adobe Suites, InDesign, PhotoShop, Premier Pro, Illustrator, VSCode
  
 ## Professional Experience
