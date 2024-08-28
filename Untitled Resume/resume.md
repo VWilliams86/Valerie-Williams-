@@ -29,15 +29,11 @@ A motivated individual with 6 years of experience in the oil and gas industry, t
 1. Conducted regular risk assessments and developed mitigation plans, reducing project risks by 40%.
 1. Fostered strong relationships with stakeholders, enhancing communication and ensuring alignment with project goals and objectives.
 
-### Project Manager
-**Global Solutions Ltd.** – New York, NY
-*June 2012 – April 2016*
-
-1. Coordinated and managed over 20 projects simultaneously, ranging from software development to infrastructure upgrades.
-1. Streamlined project management processes, introducing new tools and techniques that improved efficiency by 25%.
-1. Delivered projects with budgets up to $5 million, consistently meeting or exceeding financial targets.
-1. Developed comprehensive project plans, including timelines, milestones, and resource allocation, ensuring clear guidance for project teams.
-1. Facilitated cross-functional team collaboration, enhancing communication and ensuring successful project outcomes.
+### TechProject Management Intern
+**LES.** – Multi-country Manufacturing Firm- Georgia
+*February 2023- – May 2023*
+1. Shadowed a Project Manager in the implementation of ZOHO CRM across international locations, streamlining sales, program management, warehouse operations, and customer relationship management processes.
+2. Observed and supported the development and rollout of new marketing materials for sales teams, improving engagement with prospects and driving better sales performance.
 
 ### Assistant Project Manager
 **NextGen Technologies** – Boston, MA
