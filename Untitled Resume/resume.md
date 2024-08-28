@@ -19,9 +19,9 @@ A motivated individual with 6 years of experience in the oil and gas industry, t
 
 ## Professional Experience
 
-### Senior Project Manager
-**Tech Innovators Inc.** – Chicago, IL
-*May 2016 – Present*
+### Member Services Navigator
+**Alignment Health Plan.** – Orange, CA- Remote
+*Oct 2023 – Present*
 
 1. Led a team of 15 in the successful delivery of multiple high-profile projects, achieving a 95% on-time delivery rate.
 1. Implemented Agile methodologies across the organization, resulting in a 30% increase in team productivity and a 20% reduction in project delivery times.
@@ -29,9 +29,9 @@ A motivated individual with 6 years of experience in the oil and gas industry, t
 1. Conducted regular risk assessments and developed mitigation plans, reducing project risks by 40%.
 1. Fostered strong relationships with stakeholders, enhancing communication and ensuring alignment with project goals and objectives.
 
-### TechProject Management Intern
-**LES.** – Multi-country Manufacturing Firm- Georgia
-*February 2023- – May 2023*
+### Tech Project Management Intern
+**LES.** – Multi-country Manufacturing Firm- Georgia- Remote 
+*Feb 2023- May 2023*
 1. Shadowed a Project Manager in the implementation of ZOHO CRM across international locations, streamlining sales, program management, warehouse operations, and customer relationship management processes.
 2. Observed and supported the development and rollout of new marketing materials for sales teams, improving engagement with prospects and driving better sales performance.
 
