@@ -1,13 +1,12 @@
 # Valerie Williams
 
-**Location:** Chicago, IL
-**Phone:** (555) 234-5678
-**Email:** robert.anderson@example.com
+**Location:** Lamarque, TX
+**Phone:** (409) 800-3588
+**Email:** valerieelizabethwilliams@gmail.com
 **LinkedIn:** [linkedin.com/in/robertanderson](https://linkedin.com/in/robertanderson)
 
 ## Summary
-
-Results-driven Project Manager with over 10 years of experience in leading cross-functional teams to deliver complex projects on time and within budget. Skilled in Agile and Waterfall methodologies, with a strong focus on stakeholder management, risk assessment, and process improvement. Adept at using project management tools to streamline workflows and enhance productivity.
+A motivated individual with 6 years of experience in the oil and gas industry, transitioning into tech with a growing foundation in software engineering through a recent Bootcamp. I am eager to bring my expertise in problem-solving, project management, and leadership—honed while driving complex projects in my previous career—together with my new technical skills. With a passion for continuous learning and growth, I am excited to contribute to innovative projects through the Microsoft Leap program and continue expanding my knowledge in the tech field.
 
 ## Skills
 
